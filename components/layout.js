@@ -10,7 +10,7 @@ export default function Layout({ children, pageProps }) {
 
   return (
     <div>
-      <nav className="sticky top-0 z-40">
+      <nav className="sticky top-0 z-40 bg-white bg-opacity-90 ">
         <div className="mx-auto px-14 py-12">
           <div className="relative flex items-center justify-between h-full">
             <div className="absolute inset-y-0 right-0  flex items-center sm:hidden">

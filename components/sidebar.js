@@ -1,6 +1,6 @@
 export default function Sidebar() {
   return (
-    <aside className="fixed top-20">
+    <aside className="fixed top-80">
       <ul className="space-y-20 justify-item text-center">
         <li className="transform rotate-90 w-auto">
           <a>VC웹발주</a>
